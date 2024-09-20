@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(42, 43, 46);
+}
+
+h1 {
+    text-align: center;
+    color: #eb9d0d;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 400%;
+} 
+
+h2 {
+    text-align: center;
+    color:rgb(119, 211, 211);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
